@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RZXIVault</string>
+    <string name="vault_locked">Vault Locked</string>
+    <string name="biometric_prompt_title">Unlock RZXIVault</string>
+    <string name="biometric_prompt_subtitle">Confirm biometric identity to access hardware keys</string>
+    <string name="biometric_prompt_negative">Cancel</string>
+    <string name="vault_empty_title">Vault is Empty</string>
+    <string name="vault_empty_desc">Securely store passwords, notes, and private files offline.</string>
+</resources>
