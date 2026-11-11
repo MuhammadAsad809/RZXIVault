@@ -4,8 +4,8 @@ import android.content.ContentValues
 import android.content.Context
 import com.rzxi.vault.data.model.VaultItem
 import com.rzxi.vault.data.model.VaultType
-import net.zetetic.database.sqlcipher.SQLiteDatabase
-import net.zetetic.database.sqlcipher.SQLiteOpenHelper
+import net.sqlcipher.database.SQLiteDatabase
+import net.sqlcipher.database.SQLiteOpenHelper
 import java.io.File
 import java.security.SecureRandom
 import java.util.Arrays

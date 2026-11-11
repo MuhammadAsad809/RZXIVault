@@ -1,6 +1,6 @@
 # SQLCipher
--keep class net.zetetic.database.sqlcipher.** { *; }
--keep interface net.zetetic.database.sqlcipher.** { *; }
+-keep class net.sqlcipher.** { *; }
+-keep interface net.sqlcipher.** { *; }
 
 # AndroidX Biometric
 -keep class androidx.biometric.** { *; }
